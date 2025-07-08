@@ -9,6 +9,7 @@ All notable changes to this project will be documented in this file.
 - Added README.md and cliff.toml
 - Added CHANGELOG.md
 - Updated README.md
+- Updated READMD.md
 
 ### ⚙️ Miscellaneous Tasks
 
